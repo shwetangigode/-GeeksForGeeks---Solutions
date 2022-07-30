@@ -8,7 +8,8 @@ S1 = "Hello" S2 = "Bye"
 Output: HBeylelo
 Explanation: The characters of both the 
 given strings are arranged alternatlively.
-â€‹Example 2:
+
+Example 2:
 
 Input: 
 S1 = "abc", S2 = "def"
